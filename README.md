@@ -12,8 +12,9 @@
    cd Facebook-Scrapper-GUI
    ```
 3. **Usage**
+
  Locate the executable
- 
+
  ![alt text](https://i.ibb.co/MNpxCpL/Screenshot-2024-05-17-121133.jpg)
 
 
@@ -23,6 +24,7 @@
 
 
 5. Add keywords To Scrape
+
 ```examples
     India
     USA
@@ -31,6 +33,7 @@
 ```
 
 6. Add Chrome path
+
 ![alt text](https://i.ibb.co/BzCMvVj/chom.jpg)
 
 How to get Chrome path?
