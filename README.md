@@ -45,3 +45,7 @@ Example:
 ```
 C:\Users\username\AppData\Local\Google\Chrome\User Data
 ```
+
+7. Start Scrapping
+
+![alt text](https://i.ibb.co/yhtXVT4/scrap.jpg)
