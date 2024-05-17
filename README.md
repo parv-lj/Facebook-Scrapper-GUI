@@ -13,10 +13,12 @@
    ```
 3. **Usage**
  Locate the executable
+ 
  ![alt text](https://i.ibb.co/MNpxCpL/Screenshot-2024-05-17-121133.jpg)
 
 
 4. Run the executable
+
 ![alt text](https://i.ibb.co/dJ9YZwy/Screenshot-2024-05-17-122227.jpg)
 
 
