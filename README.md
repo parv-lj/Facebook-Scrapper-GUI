@@ -13,4 +13,4 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/facebook-scraper-gui.git
+   git clone https://github.com/yourusername/facebook-scrapper-gui.git
