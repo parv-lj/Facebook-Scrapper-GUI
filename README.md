@@ -49,3 +49,7 @@ C:\Users\username\AppData\Local\Google\Chrome\User Data
 7. Start Scrapping
 
 ![alt text](https://i.ibb.co/yhtXVT4/scrap.jpg)
+
+**NOTE**
+
+Please  Terminate/close Chrome from task manager first Otherwise the tool will not be able to scrap.
