@@ -1,4 +1,4 @@
-<b> Facebook Scraper GUI <b>
+# **Facebook Scraper GUI** 
 
 This project is a Facebook Scraper GUI tool designed to help users scrape and retrieve the top Facebook pages with the most followers based on given keywords. The application is user-friendly, featuring an intuitive graphical interface that simplifies the scraping process.
 
